@@ -1,6 +1,6 @@
 // Code your solution in this file!
-function returnFirstTwoDrivers() {
+function returnFirstTwoDrivers(drivers) {
   const anonymousFunc = function(dirvers) {
-    return anonymousFunc.slice(0, 2);
+    return drivers.slice(0, 2);
   }
 }
